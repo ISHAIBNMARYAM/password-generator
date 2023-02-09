@@ -22,6 +22,10 @@ h2 {
   margin: 10px 0 20px;
   text-align: center;
 }
+footer{
+  color: #40514E;
+  font-family: sans-serif;
+}
 
 .container {
   background-color: #40514E;
